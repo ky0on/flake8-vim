@@ -6,7 +6,7 @@
 	url = https://github.com/hhatto/autopep8.git
 [submodule "ftplugin/python/pycodestyle"]
 	path = ftplugin/python/pycodestyle
-	url = https://github.com/PyCQA/pycodestyle.git
+    url = https://github.com/ky0on/pycodestyle.git
 [submodule "ftplugin/python/frosted"]
 	path = ftplugin/python/frosted
 	url = https://github.com/timothycrosley/frosted.git
